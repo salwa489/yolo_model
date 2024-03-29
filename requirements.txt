@@ -1,8 +1,4 @@
-xvfb
-
+pyvirtualdisplay
 streamlit
-uwsgi
-flask
-matplotlib
-ultralytics 
+ultralytics
 opencv-python
