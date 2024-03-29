@@ -1,0 +1,6 @@
+streamlit
+uwsgi
+flask
+matplotlib
+ultralytics 
+opencv-python
